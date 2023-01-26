@@ -244,3 +244,6 @@ form button{
     font-size: 17px;
   }
 }
+::-webkit-scrollbar {
+  width: 0;
+}
