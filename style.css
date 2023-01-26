@@ -47,6 +47,9 @@ body{
   justify-content: center;
   border: 2px dashed #dc653a;
 }
+::-webkit-scrollbar {
+  width: 0;
+}
 .add-box p{
   color: #dc653a;
   font-weight: 500;
@@ -244,6 +247,4 @@ form button{
     font-size: 17px;
   }
 }
-::-webkit-scrollbar {
-  width: 0;
-}
+
